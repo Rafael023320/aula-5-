@@ -1,0 +1,15 @@
+#p1{
+    color: aqua;
+}
+#p2{
+    color: chocolate;
+}
+.borda{
+    border: 2px solid black;
+}
+.borda{
+    border: 2px solid blue;
+}
+
+.sombra{box-shadow: 0 0 10px rgb(47, 35, 156);
+}
